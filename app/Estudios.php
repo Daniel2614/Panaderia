@@ -21,3 +21,4 @@ class Estudios extends Model
 
 	];
 }
+

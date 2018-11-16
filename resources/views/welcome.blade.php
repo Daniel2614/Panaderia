@@ -7,7 +7,7 @@
         <title>Laravel</title>
         <link rel="stylesheet" type="text/css" href="{{ asset('bootstrap4/css/bootstrap.min.css') }}" >
       
-        <!-- Styles -->
+        <!-- Styles hola -->
         
     </head>
     <body>
